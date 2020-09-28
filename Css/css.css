@@ -1,0 +1,8 @@
+body{background: green;}
+h3{font-size:40px;
+color:black;}
+.red{font-size:90px; color:yellow;}
+.uppercase{
+  text-transform:uppercase;
+}
+h2{ color:green; front-size:50px;}
